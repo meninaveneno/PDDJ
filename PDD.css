@@ -1,0 +1,59 @@
+/* Tema da Panelinha dos Desocupados!, antes de usar entre em contato com a player "Nana".
+*/
+
+@import url("https://raw.githack.com/meninaveneno/EDP-PLUG/master/DJplug.css");
+@import url("https://rawgit.com/meninaveneno/EDP-PLUG/master/painel.css");
+@import url("https://rawgit.com/meninaveneno/EDP-PLUG/master/playlist.css");
+@import url("https://rawgit.com/meninaveneno/EDP-PLUG/master/menu.css");
+@import url("https://raw.githack.com/meninaveneno/EDP-PLUG/master/Residente.css");
+@import url("https://rawgit.com/meninaveneno/EDP-PLUG/master/likedeslikegrab.css");
+@import url("https://rawgit.com/meninaveneno/EDP-PLUG/master/geral.css");
+@import url('https://rawgit.com/meninaveneno/EDP-PLUG/master/users.css');
+@import url("https://rawgit.com/meninaveneno/EDP-PLUG/master/VIPEs.css");
+@import url('https://rawgit.com/meninaveneno/bondade20/master/logo.css');
+
+
+}
+
+#playlist-media-first-item .now-playing {
+  background: #56348C !important;
+  border-bottom: #9366da !important;
+}
+
+#dj-booth {
+  background: url('https://i.imgur.com/w5S4r1D.png') no-repeat 30px 135px;
+  left: 265px;
+}
+
+.room-background {
+  left: 0 !important;
+}
+
+.room-background i {
+  display: none;
+}
+
+.left-side-wrapper { background-position-x: center !important; background-position-y: bottom !important;
+background-repeat: no-repeat !important; background-size: 1600px 900px !important;
+max-height: 900px !important; background-image: url(https://i.imgur.com/YvAsxMA.jpg) !important;
+}  
+
+#footer #footer-user .info {
+    z-index: 0!important;
+}
+
+#footer-user .buttons {
+    z-index: -2!important
+}
+
+#footer-user {
+    z-index: -1!important
+}
+
+.thumb.medium .avi {
+    left: -24px!important;
+}
+
+.thumb .background {
+    background: transparent!important
+}
